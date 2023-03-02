@@ -1,39 +1,6 @@
 ### Hi there 👋
 
 
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@Adithyan72
-Adithyan72 /
-Portfolio
-Public
-
-Cannot fork because you own this repository and are not a member of any organizations.
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Beta Try the new code view
-Portfolio/README.md
-@Adithyan72
-Adithyan72 Update README.md
-Latest commit 4262786 Mar 2, 2023
-History
-1 contributor
-18 lines (13 sloc) 1.47 KB
-# Portfolio
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
 <h3 align="center">A passionate full Stack developer from S Adithyan from Geekster</h3>
