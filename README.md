@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://mobile.twitter.com/SADITHYAN3" target="blank"><img src="https://img.shields.io/twitter/follow/SADITHYAN3?logo=twitter&style=for-the-badge" alt="S ADITHYAN" /></a> </p>
 
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=Adithyan72&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyan72" /> </p>
+<p align="left"> <img src=" ![]https://hit.yhype.me/github/profile?user_id=Adithyan72&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyan72" /> </p>
 
 <p align= "center">
   
