@@ -13,7 +13,7 @@
   
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Coding Courses Full Stack Dev from Industry Experts to make you job ready.**
+- 🌱 I’m currently learning **Coding Courses Full Stack Dev from Industry Experts.**
 
 - 📫 How to reach me **adithyans7299@gmail.com**
 
