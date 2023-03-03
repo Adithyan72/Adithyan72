@@ -8,6 +8,12 @@
 
 <p align="left"> <a href="https://mobile.twitter.com/SADITHYAN3" target="blank"><img src="https://img.shields.io/twitter/follow/SADITHYAN3?logo=twitter&style=for-the-badge" alt="S ADITHYAN" /></a> </p>
 
+<p align= "center">
+
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+
 - 🌱 I’m currently learning **Coding Courses Full Stack Dev from Industry Experts to make you job ready.**
 
 - 📫 How to reach me **adithyans7299@gmail.com**
