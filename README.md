@@ -7,10 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adithyan72&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyan72" /> </p>
 
 <p align= "center">
-  
+
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
 <img src="https://img.shields.io/badge/React-React-blue"/>
 <img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
   
  ## 🙋‍♂️ About Me
 
