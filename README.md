@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adithyan</h1>
@@ -47,6 +44,9 @@
 
 
 <!--
+### Hi there 👋
+
+
 **Adithyan72/Adithyan72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
