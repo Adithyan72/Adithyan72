@@ -3,7 +3,7 @@
 
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi 👋, I'm Adithyan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adithyan</h1>
 <h3 align="center">A passionate full Stack developer from S Adithyan from Geekster</h3>
 
 <p align="left"> <a href="https://mobile.twitter.com/SADITHYAN3" target="blank"><img src="https://img.shields.io/twitter/follow/SADITHYAN3?logo=twitter&style=for-the-badge" alt="S ADITHYAN" /></a> </p>
